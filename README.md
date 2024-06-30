@@ -53,7 +53,7 @@ Implementation to the Basys3:
 
 Computer:
 1. Install the pySerial library on your computer using pip install pyserial
-2. Run the python code
+2. Run the python code (simon_cipher.py) in the Python Code folder
 3. Enter key and plaintext in the application
 4. Click "Encrypt"
 5. Use the center button to reset the board
