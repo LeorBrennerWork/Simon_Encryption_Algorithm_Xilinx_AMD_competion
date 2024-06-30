@@ -4,7 +4,7 @@ Team number: AOHW-116
 
 Project name: Hardware Implementation of the Simon Encryption Algorithm
 
-Link to YouTube Video(s): 
+Link to YouTube Video(s): https://youtu.be/oei0a2Ahavg
 
 Link to project repository: https://github.com/LeorBrennerWork/Simon_Encryption_Algorithm_Xilinx_AMD_competion
 
